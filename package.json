@@ -13,12 +13,12 @@
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "RizAn",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/ayusharma/birthday/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/KyyRaa/birthday#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
